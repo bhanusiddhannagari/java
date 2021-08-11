@@ -1,5 +1,6 @@
 package com.bhanu.aireline.entities;
 
-public class Airport {
+public class Airport 
+  public 
 
 }
